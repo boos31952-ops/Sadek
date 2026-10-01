@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redz - موقعي</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1 { font-size: 36px; margin-bottom: 20px; }
+p { font-size: 20px; }
+</style>
+</head>
+<body>
+<h1>نجح يا Redz! 🎉</h1>
+<p>الموقع شغّال على الإنترنت</p>
+</body>
+</html>
